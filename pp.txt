@@ -1,0 +1,13 @@
+ <div class="col-md-4">
+            <div class="card card-custom bg-warning text-dark shadow">
+                <div class="card-body">
+                    <h5 class="card-title">Total Pemasukan Member</h5>
+                    <h3>Rp <?= number_format($total_pemasukan, 0, ',', '.') ?></h3>
+                </div>
+            </div>
+        </div>
+    </div>
+
+buatkan saat  saat di klik muncul modal detail dan juga pemasukan dari masuknya kendaraan perhari/perbulan juga pertahun
+
+
